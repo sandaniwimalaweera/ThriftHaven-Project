@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+select option {
+    color: black; /* Change text color */
+    background-color: white; /* Change background color */
+  }
+  
